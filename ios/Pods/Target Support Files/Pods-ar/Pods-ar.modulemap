@@ -1,0 +1,6 @@
+module Pods_ar {
+  umbrella header "Pods-ar-umbrella.h"
+
+  export *
+  module * { export * }
+}
